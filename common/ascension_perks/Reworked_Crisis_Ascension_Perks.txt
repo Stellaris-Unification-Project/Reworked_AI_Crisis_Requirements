@@ -28,10 +28,8 @@ ap_become_the_crisis = {
 			is_galactic_emperor = no
 		}
 		NOR = {
-                        has_ethic = ethic_xenophile
-                        has_ethic = ethic_fanatic_xenophile
-			has_ethic = ethic_pacifist
-			has_ethic = ethic_fanatic_pacifist
+                        is_xenophile = yes
+			is_pacifist = yes
 			has_civic = civic_machine_servitor
 		}
 	}
